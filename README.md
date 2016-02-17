@@ -1,0 +1,2 @@
+# ohaigo
+Go lang fun
